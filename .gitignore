@@ -22,3 +22,17 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+# Gradle
+.gradle/
+build/
+
+# IDE 빌드 출력 / 설정 (Eclipse, IntelliJ, VS Code)
+bin/
+out/
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
